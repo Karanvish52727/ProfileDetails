@@ -1,0 +1,13 @@
+* {
+    /* margin: 0%;
+    padding: 0%; */
+    /* box-sizing: border-box; */
+    background-color: #a7d6ff;
+}
+
+.self {}
+
+.img1 {
+    border-radius: 8px;
+    gap: 10px;
+}
